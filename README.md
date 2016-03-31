@@ -1,9 +1,9 @@
 # VizData
 Text based data visualizations, made out in [Processing](processing.org)
 
-![VizData image](https://github.com/MOctavio/viz_data/blob/master/img/seeYouAgain.png?raw=true "VizData")
-
-![VizData image](https://github.com/MOctavio/viz_data/blob/master/img/rapGod.png?raw=true "VizData")
+<img src="https://github.com/MOctavio/viz_data/blob/master/img/seeYouAgain.png?raw=true" width="280" height="280">
+<img src="https://github.com/MOctavio/viz_data/blob/master/img/happy.png?raw=true" width="280" height="280">
+<img src="https://github.com/MOctavio/viz_data/blob/master/img/rapGod.png?raw=true" width="280" height="280">
 
 ## How it works
 This app is made of two Processing files:
@@ -19,7 +19,7 @@ The parser file reads a given text file, in this case song lyrics to generate a 
 
 ### Generate your own visualizations
 Find the variable String file and replace the content with the text file you want to use, it may contain any text, how ever most interesting visualizations are obtained from files with several lines and words.
-Once you have changed the source make sure to add some text to be displayed along with the visualization you are going to create.
+Once you have changed the source make sure to add some text to be displayed along with the visualization you are going to create, also it's best if you remove any punctuation mark and have everything in lower case.
 
 ## Areas of improvement
-Everything. That been said the algorithm it's not rocket science, actually it's pretty simple and for each visualization you have to manually change and run the app. Feel free to fork and make a pull request ;) or do your own :)
+Everything. That been said the algorithm it's not rocket science, actually it's pretty simple but to generate a visualization you'll have to manually change the variable with the file name and add a description. Feel free to fork and make a pull request ;) or do your own :)

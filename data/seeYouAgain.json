@@ -1,0 +1,888 @@
+{
+  "wordCount": 463,
+  "words": [
+    {
+      "line": 11,
+      "count": 1,
+      "position": 71,
+      "word": "'bout"
+    },
+    {
+      "line": 41,
+      "count": 1,
+      "position": 246,
+      "word": "vibe"
+    },
+    {
+      "line": 0,
+      "count": 4,
+      "position": 1,
+      "word": "been"
+    },
+    {
+      "line": 14,
+      "count": 1,
+      "position": 86,
+      "word": "told"
+    },
+    {
+      "line": 52,
+      "count": 1,
+      "position": 313,
+      "word": "reach"
+    },
+    {
+      "line": 2,
+      "count": 8,
+      "position": 14,
+      "word": "about"
+    },
+    {
+      "line": 41,
+      "count": 1,
+      "position": 251,
+      "word": "what's"
+    },
+    {
+      "line": 73,
+      "count": 2,
+      "position": 443,
+      "word": "ya"
+    },
+    {
+      "line": 32,
+      "count": 6,
+      "position": 194,
+      "word": "yeah"
+    },
+    {
+      "line": 40,
+      "count": 2,
+      "position": 242,
+      "word": "your"
+    },
+    {
+      "line": 2,
+      "count": 17,
+      "position": 16,
+      "word": "when"
+    },
+    {
+      "line": 0,
+      "count": 3,
+      "position": 5,
+      "word": "without"
+    },
+    {
+      "line": 12,
+      "count": 1,
+      "position": 73,
+      "word": "path"
+    },
+    {
+      "line": 12,
+      "count": 1,
+      "position": 77,
+      "word": "loved"
+    },
+    {
+      "line": 13,
+      "count": 2,
+      "position": 81,
+      "word": "road"
+    },
+    {
+      "line": 45,
+      "count": 2,
+      "position": 275,
+      "word": "lost"
+    },
+    {
+      "line": 1,
+      "count": 3,
+      "position": 8,
+      "word": "friend"
+    },
+    {
+      "line": 36,
+      "count": 2,
+      "position": 220,
+      "word": "let"
+    },
+    {
+      "line": 51,
+      "count": 1,
+      "position": 306,
+      "word": "drawn"
+    },
+    {
+      "line": 7,
+      "count": 1,
+      "position": 47,
+      "word": "hey"
+    },
+    {
+      "line": 1,
+      "count": 35,
+      "position": 6,
+      "word": "you"
+    },
+    {
+      "line": 61,
+      "count": 1,
+      "position": 366,
+      "word": "guide"
+    },
+    {
+      "line": 23,
+      "count": 2,
+      "position": 143,
+      "word": "went"
+    },
+    {
+      "line": 4,
+      "count": 3,
+      "position": 29,
+      "word": "began"
+    },
+    {
+      "line": 19,
+      "count": 2,
+      "position": 116,
+      "word": "in"
+    },
+    {
+      "line": 18,
+      "count": 1,
+      "position": 109,
+      "word": "work"
+    },
+    {
+      "line": 3,
+      "count": 4,
+      "position": 22,
+      "word": "come"
+    },
+    {
+      "line": 41,
+      "count": 2,
+      "position": 247,
+      "word": "is"
+    },
+    {
+      "line": 2,
+      "count": 8,
+      "position": 15,
+      "word": "it"
+    },
+    {
+      "line": 48,
+      "count": 1,
+      "position": 288,
+      "word": "then"
+    },
+    {
+      "line": 14,
+      "count": 1,
+      "position": 85,
+      "word": "something"
+    },
+    {
+      "line": 62,
+      "count": 1,
+      "position": 373,
+      "word": "as"
+    },
+    {
+      "line": 3,
+      "count": 4,
+      "position": 21,
+      "word": "we've"
+    },
+    {
+      "line": 16,
+      "count": 1,
+      "position": 97,
+      "word": "at"
+    },
+    {
+      "line": 60,
+      "count": 1,
+      "position": 365,
+      "word": "light"
+    },
+    {
+      "line": 49,
+      "count": 1,
+      "position": 294,
+      "word": "crossed"
+    },
+    {
+      "line": 45,
+      "count": 2,
+      "position": 271,
+      "word": "love"
+    },
+    {
+      "line": 41,
+      "count": 1,
+      "position": 249,
+      "word": "strong"
+    },
+    {
+      "line": 10,
+      "count": 6,
+      "position": 64,
+      "word": "be"
+    },
+    {
+      "line": 12,
+      "count": 1,
+      "position": 72,
+      "word": "another"
+    },
+    {
+      "line": 38,
+      "count": 4,
+      "position": 230,
+      "word": "aah"
+    },
+    {
+      "line": 11,
+      "count": 1,
+      "position": 68,
+      "word": "talking"
+    },
+    {
+      "line": 42,
+      "count": 2,
+      "position": 253,
+      "word": "turn"
+    },
+    {
+      "line": 49,
+      "count": 1,
+      "position": 298,
+      "word": "our"
+    },
+    {
+      "line": 0,
+      "count": 7,
+      "position": 3,
+      "word": "long"
+    },
+    {
+      "line": 53,
+      "count": 2,
+      "position": 318,
+      "word": "i'm"
+    },
+    {
+      "line": 40,
+      "count": 1,
+      "position": 241,
+      "word": "out"
+    },
+    {
+      "line": 52,
+      "count": 2,
+      "position": 315,
+      "word": "remember"
+    },
+    {
+      "line": 21,
+      "count": 2,
+      "position": 128,
+      "word": "how"
+    },
+    {
+      "line": 25,
+      "count": 2,
+      "position": 155,
+      "word": "gon'"
+    },
+    {
+      "line": 3,
+      "count": 16,
+      "position": 18,
+      "word": "see"
+    },
+    {
+      "line": 24,
+      "count": 2,
+      "position": 149,
+      "word": "by"
+    },
+    {
+      "line": 45,
+      "count": 2,
+      "position": 274,
+      "word": "get"
+    },
+    {
+      "line": 32,
+      "count": 1,
+      "position": 196,
+      "word": "came"
+    },
+    {
+      "line": 4,
+      "count": 3,
+      "position": 27,
+      "word": "where"
+    },
+    {
+      "line": 19,
+      "count": 2,
+      "position": 119,
+      "word": "place"
+    },
+    {
+      "line": 23,
+      "count": 2,
+      "position": 141,
+      "word": "everything"
+    },
+    {
+      "line": 39,
+      "count": 3,
+      "position": 234,
+      "word": "wooooh-oh-oh-oh-oh-oh"
+    },
+    {
+      "line": 52,
+      "count": 2,
+      "position": 314,
+      "word": "so"
+    },
+    {
+      "line": 44,
+      "count": 1,
+      "position": 269,
+      "word": "broken"
+    },
+    {
+      "line": 49,
+      "count": 1,
+      "position": 295,
+      "word": "established"
+    },
+    {
+      "line": 0,
+      "count": 12,
+      "position": 2,
+      "word": "a"
+    },
+    {
+      "line": 15,
+      "count": 1,
+      "position": 90,
+      "word": "wouldn't"
+    },
+    {
+      "line": 25,
+      "count": 2,
+      "position": 151,
+      "word": "side"
+    },
+    {
+      "line": 17,
+      "count": 1,
+      "position": 102,
+      "word": "bigger"
+    },
+    {
+      "line": 8,
+      "count": 1,
+      "position": 51,
+      "word": "knew"
+    },
+    {
+      "line": 2,
+      "count": 16,
+      "position": 17,
+      "word": "i"
+    },
+    {
+      "line": 34,
+      "count": 1,
+      "position": 207,
+      "word": "started"
+    },
+    {
+      "line": 11,
+      "count": 1,
+      "position": 66,
+      "word": "right"
+    },
+    {
+      "line": 17,
+      "count": 1,
+      "position": 103,
+      "word": "picture"
+    },
+    {
+      "line": 63,
+      "count": 1,
+      "position": 383,
+      "word": "lead"
+    },
+    {
+      "line": 8,
+      "count": 11,
+      "position": 53,
+      "word": "the"
+    },
+    {
+      "line": 10,
+      "count": 3,
+      "position": 65,
+      "word": "standing"
+    },
+    {
+      "line": 17,
+      "count": 1,
+      "position": 107,
+      "word": "days"
+    },
+    {
+      "line": 11,
+      "count": 6,
+      "position": 69,
+      "word": "to"
+    },
+    {
+      "line": 39,
+      "count": 2,
+      "position": 237,
+      "word": "first"
+    },
+    {
+      "line": 22,
+      "count": 2,
+      "position": 136,
+      "word": "family's"
+    },
+    {
+      "line": 10,
+      "count": 3,
+      "position": 61,
+      "word": "through"
+    },
+    {
+      "line": 14,
+      "count": 1,
+      "position": 84,
+      "word": "but"
+    },
+    {
+      "line": 42,
+      "count": 1,
+      "position": 252,
+      "word": "small"
+    },
+    {
+      "line": 42,
+      "count": 2,
+      "position": 256,
+      "word": "friendship"
+    },
+    {
+      "line": 1,
+      "count": 7,
+      "position": 11,
+      "word": "tell"
+    },
+    {
+      "line": 49,
+      "count": 1,
+      "position": 299,
+      "word": "own"
+    },
+    {
+      "line": 15,
+      "count": 2,
+      "position": 92,
+      "word": "had"
+    },
+    {
+      "line": 9,
+      "count": 1,
+      "position": 57,
+      "word": "good"
+    },
+    {
+      "line": 23,
+      "count": 2,
+      "position": 140,
+      "word": "got"
+    },
+    {
+      "line": 61,
+      "count": 1,
+      "position": 370,
+      "word": "hold"
+    },
+    {
+      "line": 10,
+      "count": 7,
+      "position": 62,
+      "word": "that"
+    },
+    {
+      "line": 13,
+      "count": 1,
+      "position": 79,
+      "word": "hit"
+    },
+    {
+      "line": 47,
+      "count": 1,
+      "position": 285,
+      "word": "brotherhood"
+    },
+    {
+      "line": 21,
+      "count": 3,
+      "position": 127,
+      "word": "uh"
+    },
+    {
+      "line": 9,
+      "count": 2,
+      "position": 58,
+      "word": "things"
+    },
+    {
+      "line": 14,
+      "count": 6,
+      "position": 87,
+      "word": "me"
+    },
+    {
+      "line": 4,
+      "count": 3,
+      "position": 26,
+      "word": "from"
+    },
+    {
+      "line": 22,
+      "count": 2,
+      "position": 132,
+      "word": "talk"
+    },
+    {
+      "line": 15,
+      "count": 1,
+      "position": 95,
+      "word": "up"
+    },
+    {
+      "line": 16,
+      "count": 1,
+      "position": 99,
+      "word": "different"
+    },
+    {
+      "line": 0,
+      "count": 3,
+      "position": 4,
+      "word": "day"
+    },
+    {
+      "line": 13,
+      "count": 1,
+      "position": 83,
+      "word": "laugh"
+    },
+    {
+      "line": 17,
+      "count": 1,
+      "position": 104,
+      "word": "those"
+    },
+    {
+      "line": 2,
+      "count": 9,
+      "position": 13,
+      "word": "all"
+    },
+    {
+      "line": 63,
+      "count": 1,
+      "position": 382,
+      "word": "always"
+    },
+    {
+      "line": 15,
+      "count": 3,
+      "position": 91,
+      "word": "last"
+    },
+    {
+      "line": 0,
+      "count": 3,
+      "position": 0,
+      "word": "it's"
+    },
+    {
+      "line": 9,
+      "count": 1,
+      "position": 54,
+      "word": "planes"
+    },
+    {
+      "line": 41,
+      "count": 1,
+      "position": 248,
+      "word": "feeling"
+    },
+    {
+      "line": 1,
+      "count": 5,
+      "position": 7,
+      "word": "my"
+    },
+    {
+      "line": 16,
+      "count": 1,
+      "position": 96,
+      "word": "look"
+    },
+    {
+      "line": 39,
+      "count": 1,
+      "position": 239,
+      "word": "both"
+    },
+    {
+      "line": 53,
+      "count": 2,
+      "position": 319,
+      "word": "gone"
+    },
+    {
+      "line": 44,
+      "count": 4,
+      "position": 267,
+      "word": "never"
+    },
+    {
+      "line": 63,
+      "count": 1,
+      "position": 380,
+      "word": "take"
+    },
+    {
+      "line": 17,
+      "count": 3,
+      "position": 105,
+      "word": "were"
+    },
+    {
+      "line": 76,
+      "count": 1,
+      "position": 457,
+      "word": "uh-huh"
+    },
+    {
+      "line": 12,
+      "count": 2,
+      "position": 75,
+      "word": "know"
+    },
+    {
+      "line": 8,
+      "count": 1,
+      "position": 50,
+      "word": "who"
+    },
+    {
+      "line": 11,
+      "count": 1,
+      "position": 67,
+      "word": "here"
+    },
+    {
+      "line": 62,
+      "count": 1,
+      "position": 372,
+      "word": "memory"
+    },
+    {
+      "line": 48,
+      "count": 3,
+      "position": 290,
+      "word": "line"
+    },
+    {
+      "line": 26,
+      "count": 2,
+      "position": 159,
+      "word": "for"
+    },
+    {
+      "line": 27,
+      "count": 2,
+      "position": 162,
+      "word": "ride"
+    },
+    {
+      "line": 4,
+      "count": 12,
+      "position": 28,
+      "word": "we"
+    },
+    {
+      "line": 15,
+      "count": 1,
+      "position": 94,
+      "word": "switch"
+    },
+    {
+      "line": 21,
+      "count": 2,
+      "position": 129,
+      "word": "can"
+    },
+    {
+      "line": 21,
+      "count": 2,
+      "position": 131,
+      "word": "not"
+    },
+    {
+      "line": 1,
+      "count": 13,
+      "position": 9,
+      "word": "and"
+    },
+    {
+      "line": 9,
+      "count": 1,
+      "position": 56,
+      "word": "flew"
+    },
+    {
+      "line": 18,
+      "count": 3,
+      "position": 112,
+      "word": "now"
+    },
+    {
+      "line": 5,
+      "count": 7,
+      "position": 30,
+      "word": "oh"
+    },
+    {
+      "line": 18,
+      "count": 1,
+      "position": 108,
+      "word": "hard"
+    },
+    {
+      "line": 61,
+      "count": 2,
+      "position": 371,
+      "word": "every"
+    },
+    {
+      "line": 49,
+      "count": 1,
+      "position": 297,
+      "word": "on"
+    },
+    {
+      "line": 44,
+      "count": 5,
+      "position": 266,
+      "word": "will"
+    },
+    {
+      "line": 3,
+      "count": 13,
+      "position": 20,
+      "word": "again"
+    },
+    {
+      "line": 40,
+      "count": 2,
+      "position": 240,
+      "word": "go"
+    },
+    {
+      "line": 43,
+      "count": 2,
+      "position": 262,
+      "word": "bond"
+    },
+    {
+      "line": 1,
+      "count": 7,
+      "position": 10,
+      "word": "i'll"
+    },
+    {
+      "line": 4,
+      "count": 6,
+      "position": 25,
+      "word": "way"
+    },
+    {
+      "line": 64,
+      "count": 2,
+      "position": 385,
+      "word": "home"
+    },
+    {
+      "line": 8,
+      "count": 1,
+      "position": 49,
+      "word": "damn"
+    },
+    {
+      "line": 19,
+      "count": 2,
+      "position": 118,
+      "word": "better"
+    },
+    {
+      "line": 26,
+      "count": 2,
+      "position": 157,
+      "word": "with"
+    },
+    {
+      "line": 51,
+      "count": 1,
+      "position": 311,
+      "word": "what"
+    },
+    {
+      "line": 24,
+      "count": 2,
+      "position": 148,
+      "word": "there"
+    },
+    {
+      "line": 18,
+      "count": 1,
+      "position": 110,
+      "word": "forever"
+    },
+    {
+      "line": 22,
+      "count": 2,
+      "position": 134,
+      "word": "family"
+    },
+    {
+      "line": 18,
+      "count": 1,
+      "position": 111,
+      "word": "pays"
+    }
+  ],
+  "lines": 74
+}

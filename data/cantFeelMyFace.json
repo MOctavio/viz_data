@@ -1,0 +1,390 @@
+{
+  "wordCount": 372,
+  "words": [
+    {
+      "line": 4,
+      "count": 21,
+      "position": 29,
+      "word": "but"
+    },
+    {
+      "line": 7,
+      "count": 9,
+      "position": 49,
+      "word": "told"
+    },
+    {
+      "line": 7,
+      "count": 6,
+      "position": 51,
+      "word": "don't"
+    },
+    {
+      "line": 7,
+      "count": 3,
+      "position": 53,
+      "word": "about"
+    },
+    {
+      "line": 11,
+      "count": 10,
+      "position": 80,
+      "word": "feel"
+    },
+    {
+      "line": 6,
+      "count": 1,
+      "position": 43,
+      "word": "yeah"
+    },
+    {
+      "line": 11,
+      "count": 11,
+      "position": 83,
+      "word": "when"
+    },
+    {
+      "line": 9,
+      "count": 3,
+      "position": 68,
+      "word": "without"
+    },
+    {
+      "line": 5,
+      "count": 1,
+      "position": 35,
+      "word": "beautiful"
+    },
+    {
+      "line": 0,
+      "count": 4,
+      "position": 3,
+      "word": "she'll"
+    },
+    {
+      "line": 1,
+      "count": 13,
+      "position": 8,
+      "word": "me"
+    },
+    {
+      "line": 12,
+      "count": 10,
+      "position": 86,
+      "word": "you"
+    },
+    {
+      "line": 2,
+      "count": 2,
+      "position": 17,
+      "word": "always"
+    },
+    {
+      "line": 7,
+      "count": 6,
+      "position": 52,
+      "word": "worry"
+    },
+    {
+      "line": 20,
+      "count": 1,
+      "position": 144,
+      "word": "all"
+    },
+    {
+      "line": 10,
+      "count": 3,
+      "position": 73,
+      "word": "you'll"
+    },
+    {
+      "line": 21,
+      "count": 1,
+      "position": 152,
+      "word": "in"
+    },
+    {
+      "line": 5,
+      "count": 2,
+      "position": 40,
+      "word": "this"
+    },
+    {
+      "line": 3,
+      "count": 2,
+      "position": 25,
+      "word": "is"
+    },
+    {
+      "line": 4,
+      "count": 2,
+      "position": 28,
+      "word": "come"
+    },
+    {
+      "line": 7,
+      "count": 26,
+      "position": 54,
+      "word": "it"
+    },
+    {
+      "line": 11,
+      "count": 10,
+      "position": 81,
+      "word": "my"
+    },
+    {
+      "line": 22,
+      "count": 1,
+      "position": 160,
+      "word": "girl"
+    },
+    {
+      "line": 1,
+      "count": 6,
+      "position": 12,
+      "word": "both"
+    },
+    {
+      "line": 2,
+      "count": 2,
+      "position": 14,
+      "word": "numb"
+    },
+    {
+      "line": 6,
+      "count": 9,
+      "position": 48,
+      "word": "she"
+    },
+    {
+      "line": 10,
+      "count": 3,
+      "position": 74,
+      "word": "never"
+    },
+    {
+      "line": 1,
+      "count": 3,
+      "position": 9,
+      "word": "at"
+    },
+    {
+      "line": 21,
+      "count": 1,
+      "position": 150,
+      "word": "we're"
+    },
+    {
+      "line": 0,
+      "count": 8,
+      "position": 2,
+      "word": "know"
+    },
+    {
+      "line": 3,
+      "count": 2,
+      "position": 24,
+      "word": "worst"
+    },
+    {
+      "line": 12,
+      "count": 21,
+      "position": 89,
+      "word": "love"
+    },
+    {
+      "line": 8,
+      "count": 3,
+      "position": 60,
+      "word": "no"
+    },
+    {
+      "line": 21,
+      "count": 1,
+      "position": 151,
+      "word": "deep"
+    },
+    {
+      "line": 0,
+      "count": 8,
+      "position": 4,
+      "word": "be"
+    },
+    {
+      "line": 0,
+      "count": 2,
+      "position": 6,
+      "word": "death"
+    },
+    {
+      "line": 5,
+      "count": 1,
+      "position": 39,
+      "word": "young"
+    },
+    {
+      "line": 1,
+      "count": 3,
+      "position": 10,
+      "word": "least"
+    },
+    {
+      "line": 20,
+      "count": 1,
+      "position": 146,
+      "word": "misery"
+    },
+    {
+      "line": 2,
+      "count": 2,
+      "position": 20,
+      "word": "best"
+    },
+    {
+      "line": 8,
+      "count": 6,
+      "position": 62,
+      "word": "we"
+    },
+    {
+      "line": 12,
+      "count": 10,
+      "position": 84,
+      "word": "i'm"
+    },
+    {
+      "line": 10,
+      "count": 3,
+      "position": 76,
+      "word": "alone"
+    },
+    {
+      "line": 42,
+      "count": 1,
+      "position": 297,
+      "word": "whoa"
+    },
+    {
+      "line": 0,
+      "count": 5,
+      "position": 0,
+      "word": "and"
+    },
+    {
+      "line": 1,
+      "count": 4,
+      "position": 7,
+      "word": "of"
+    },
+    {
+      "line": 2,
+      "count": 2,
+      "position": 18,
+      "word": "get"
+    },
+    {
+      "line": 13,
+      "count": 10,
+      "position": 95,
+      "word": "oh"
+    },
+    {
+      "line": 9,
+      "count": 13,
+      "position": 66,
+      "word": "can't"
+    },
+    {
+      "line": 1,
+      "count": 3,
+      "position": 11,
+      "word": "we'll"
+    },
+    {
+      "line": 21,
+      "count": 1,
+      "position": 148,
+      "word": "necessary"
+    },
+    {
+      "line": 8,
+      "count": 3,
+      "position": 61,
+      "word": "more"
+    },
+    {
+      "line": 22,
+      "count": 2,
+      "position": 154,
+      "word": "yes"
+    },
+    {
+      "line": 9,
+      "count": 2,
+      "position": 64,
+      "word": "knew"
+    },
+    {
+      "line": 9,
+      "count": 3,
+      "position": 67,
+      "word": "go"
+    },
+    {
+      "line": 21,
+      "count": 1,
+      "position": 147,
+      "word": "was"
+    },
+    {
+      "line": 0,
+      "count": 37,
+      "position": 1,
+      "word": "i"
+    },
+    {
+      "line": 3,
+      "count": 2,
+      "position": 26,
+      "word": "yet"
+    },
+    {
+      "line": 5,
+      "count": 1,
+      "position": 37,
+      "word": "stay"
+    },
+    {
+      "line": 0,
+      "count": 7,
+      "position": 5,
+      "word": "the"
+    },
+    {
+      "line": 12,
+      "count": 10,
+      "position": 85,
+      "word": "with"
+    },
+    {
+      "line": 11,
+      "count": 10,
+      "position": 82,
+      "word": "face"
+    },
+    {
+      "line": 3,
+      "count": 2,
+      "position": 27,
+      "word": "to"
+    },
+    {
+      "line": 5,
+      "count": 1,
+      "position": 38,
+      "word": "forever"
+    }
+  ],
+  "lines": 50
+}

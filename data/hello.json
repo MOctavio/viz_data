@@ -1,0 +1,708 @@
+{
+  "wordCount": 337,
+  "words": [
+    {
+      "line": 12,
+      "count": 3,
+      "position": 87,
+      "word": "called"
+    },
+    {
+      "line": 19,
+      "count": 3,
+      "position": 134,
+      "word": "don't"
+    },
+    {
+      "line": 3,
+      "count": 1,
+      "position": 26,
+      "word": "ya"
+    },
+    {
+      "line": 6,
+      "count": 2,
+      "position": 43,
+      "word": "about"
+    },
+    {
+      "line": 18,
+      "count": 3,
+      "position": 130,
+      "word": "your"
+    },
+    {
+      "line": 22,
+      "count": 1,
+      "position": 160,
+      "word": "hope"
+    },
+    {
+      "line": 7,
+      "count": 4,
+      "position": 49,
+      "word": "when"
+    },
+    {
+      "line": 1,
+      "count": 1,
+      "position": 10,
+      "word": "years"
+    },
+    {
+      "line": 1,
+      "count": 1,
+      "position": 9,
+      "word": "these"
+    },
+    {
+      "line": 17,
+      "count": 5,
+      "position": 122,
+      "word": "tried"
+    },
+    {
+      "line": 19,
+      "count": 3,
+      "position": 138,
+      "word": "doesn't"
+    },
+    {
+      "line": 0,
+      "count": 1,
+      "position": 6,
+      "word": "if"
+    },
+    {
+      "line": 2,
+      "count": 1,
+      "position": 19,
+      "word": "they"
+    },
+    {
+      "line": 5,
+      "count": 15,
+      "position": 36,
+      "word": "you"
+    },
+    {
+      "line": 10,
+      "count": 1,
+      "position": 72,
+      "word": "between"
+    },
+    {
+      "line": 9,
+      "count": 1,
+      "position": 68,
+      "word": "there's"
+    },
+    {
+      "line": 18,
+      "count": 3,
+      "position": 129,
+      "word": "breaking"
+    },
+    {
+      "line": 5,
+      "count": 1,
+      "position": 40,
+      "word": "in"
+    },
+    {
+      "line": 7,
+      "count": 1,
+      "position": 52,
+      "word": "younger"
+    },
+    {
+      "line": 22,
+      "count": 1,
+      "position": 156,
+      "word": "myself"
+    },
+    {
+      "line": 24,
+      "count": 1,
+      "position": 174,
+      "word": "nothing"
+    },
+    {
+      "line": 8,
+      "count": 8,
+      "position": 58,
+      "word": "it"
+    },
+    {
+      "line": 23,
+      "count": 2,
+      "position": 166,
+      "word": "ever"
+    },
+    {
+      "line": 9,
+      "count": 4,
+      "position": 64,
+      "word": "at"
+    },
+    {
+      "line": 10,
+      "count": 1,
+      "position": 76,
+      "word": "million"
+    },
+    {
+      "line": 10,
+      "count": 1,
+      "position": 71,
+      "word": "difference"
+    },
+    {
+      "line": 12,
+      "count": 3,
+      "position": 85,
+      "word": "must"
+    },
+    {
+      "line": 0,
+      "count": 9,
+      "position": 0,
+      "word": "hello"
+    },
+    {
+      "line": 7,
+      "count": 9,
+      "position": 55,
+      "word": "i've"
+    },
+    {
+      "line": 4,
+      "count": 1,
+      "position": 31,
+      "word": "much"
+    },
+    {
+      "line": 11,
+      "count": 5,
+      "position": 82,
+      "word": "other"
+    },
+    {
+      "line": 6,
+      "count": 4,
+      "position": 48,
+      "word": "be"
+    },
+    {
+      "line": 16,
+      "count": 3,
+      "position": 116,
+      "word": "least"
+    },
+    {
+      "line": 25,
+      "count": 1,
+      "position": 181,
+      "word": "secret"
+    },
+    {
+      "line": 19,
+      "count": 3,
+      "position": 135,
+      "word": "matter"
+    },
+    {
+      "line": 9,
+      "count": 1,
+      "position": 65,
+      "word": "our"
+    },
+    {
+      "line": 5,
+      "count": 8,
+      "position": 39,
+      "word": "i'm"
+    },
+    {
+      "line": 15,
+      "count": 3,
+      "position": 107,
+      "word": "seem"
+    },
+    {
+      "line": 24,
+      "count": 2,
+      "position": 169,
+      "word": "out"
+    },
+    {
+      "line": 9,
+      "count": 1,
+      "position": 63,
+      "word": "fell"
+    },
+    {
+      "line": 8,
+      "count": 2,
+      "position": 57,
+      "word": "how"
+    },
+    {
+      "line": 8,
+      "count": 1,
+      "position": 62,
+      "word": "world"
+    },
+    {
+      "line": 19,
+      "count": 3,
+      "position": 139,
+      "word": "tear"
+    },
+    {
+      "line": 3,
+      "count": 1,
+      "position": 22,
+      "word": "time's"
+    },
+    {
+      "line": 20,
+      "count": 2,
+      "position": 146,
+      "word": "are"
+    },
+    {
+      "line": 12,
+      "count": 3,
+      "position": 86,
+      "word": "have"
+    },
+    {
+      "line": 24,
+      "count": 1,
+      "position": 173,
+      "word": "where"
+    },
+    {
+      "line": 1,
+      "count": 1,
+      "position": 7,
+      "word": "after"
+    },
+    {
+      "line": 2,
+      "count": 4,
+      "position": 18,
+      "word": "everything"
+    },
+    {
+      "line": 7,
+      "count": 1,
+      "position": 54,
+      "word": "free"
+    },
+    {
+      "line": 21,
+      "count": 2,
+      "position": 149,
+      "word": "so"
+    },
+    {
+      "line": 20,
+      "count": 3,
+      "position": 141,
+      "word": "apart"
+    },
+    {
+      "line": 10,
+      "count": 5,
+      "position": 70,
+      "word": "a"
+    },
+    {
+      "line": 11,
+      "count": 5,
+      "position": 83,
+      "word": "side"
+    },
+    {
+      "line": 0,
+      "count": 12,
+      "position": 3,
+      "word": "i"
+    },
+    {
+      "line": 25,
+      "count": 1,
+      "position": 176,
+      "word": "happened"
+    },
+    {
+      "line": 8,
+      "count": 8,
+      "position": 61,
+      "word": "the"
+    },
+    {
+      "line": 14,
+      "count": 3,
+      "position": 104,
+      "word": "call"
+    },
+    {
+      "line": 9,
+      "count": 1,
+      "position": 69,
+      "word": "such"
+    },
+    {
+      "line": 2,
+      "count": 1,
+      "position": 14,
+      "word": "meet"
+    },
+    {
+      "line": 1,
+      "count": 14,
+      "position": 13,
+      "word": "to"
+    },
+    {
+      "line": 4,
+      "count": 1,
+      "position": 29,
+      "word": "ain't"
+    },
+    {
+      "line": 12,
+      "count": 5,
+      "position": 89,
+      "word": "thousand"
+    },
+    {
+      "line": 23,
+      "count": 1,
+      "position": 164,
+      "word": "did"
+    },
+    {
+      "line": 3,
+      "count": 7,
+      "position": 27,
+      "word": "but"
+    },
+    {
+      "line": 9,
+      "count": 1,
+      "position": 66,
+      "word": "feet"
+    },
+    {
+      "line": 8,
+      "count": 1,
+      "position": 60,
+      "word": "before"
+    },
+    {
+      "line": 13,
+      "count": 6,
+      "position": 92,
+      "word": "tell"
+    },
+    {
+      "line": 6,
+      "count": 1,
+      "position": 46,
+      "word": "used"
+    },
+    {
+      "line": 19,
+      "count": 3,
+      "position": 137,
+      "word": "clearly"
+    },
+    {
+      "line": 20,
+      "count": 3,
+      "position": 142,
+      "word": "anymore"
+    },
+    {
+      "line": 0,
+      "count": 1,
+      "position": 5,
+      "word": "wondering"
+    },
+    {
+      "line": 3,
+      "count": 10,
+      "position": 21,
+      "word": "that"
+    },
+    {
+      "line": 4,
+      "count": 1,
+      "position": 32,
+      "word": "healing"
+    },
+    {
+      "line": 0,
+      "count": 3,
+      "position": 2,
+      "word": "me"
+    },
+    {
+      "line": 8,
+      "count": 1,
+      "position": 56,
+      "word": "forgotten"
+    },
+    {
+      "line": 5,
+      "count": 1,
+      "position": 41,
+      "word": "california"
+    },
+    {
+      "line": 11,
+      "count": 6,
+      "position": 80,
+      "word": "from"
+    },
+    {
+      "line": 22,
+      "count": 1,
+      "position": 154,
+      "word": "talk"
+    },
+    {
+      "line": 10,
+      "count": 2,
+      "position": 73,
+      "word": "us"
+    },
+    {
+      "line": 1,
+      "count": 1,
+      "position": 8,
+      "word": "all"
+    },
+    {
+      "line": 6,
+      "count": 1,
+      "position": 42,
+      "word": "dreaming"
+    },
+    {
+      "line": 1,
+      "count": 1,
+      "position": 11,
+      "word": "you'd"
+    },
+    {
+      "line": 24,
+      "count": 1,
+      "position": 172,
+      "word": "town"
+    },
+    {
+      "line": 1,
+      "count": 1,
+      "position": 12,
+      "word": "like"
+    },
+    {
+      "line": 0,
+      "count": 3,
+      "position": 1,
+      "word": "it's"
+    },
+    {
+      "line": 8,
+      "count": 1,
+      "position": 59,
+      "word": "felt"
+    },
+    {
+      "line": 4,
+      "count": 4,
+      "position": 30,
+      "word": "done"
+    },
+    {
+      "line": 18,
+      "count": 3,
+      "position": 131,
+      "word": "heart"
+    },
+    {
+      "line": 26,
+      "count": 1,
+      "position": 184,
+      "word": "both"
+    },
+    {
+      "line": 15,
+      "count": 3,
+      "position": 106,
+      "word": "never"
+    },
+    {
+      "line": 7,
+      "count": 1,
+      "position": 51,
+      "word": "were"
+    },
+    {
+      "line": 16,
+      "count": 5,
+      "position": 114,
+      "word": "outside"
+    },
+    {
+      "line": 3,
+      "count": 1,
+      "position": 23,
+      "word": "supposed"
+    },
+    {
+      "line": 6,
+      "count": 1,
+      "position": 44,
+      "word": "who"
+    },
+    {
+      "line": 25,
+      "count": 1,
+      "position": 180,
+      "word": "no"
+    },
+    {
+      "line": 13,
+      "count": 6,
+      "position": 96,
+      "word": "for"
+    },
+    {
+      "line": 6,
+      "count": 2,
+      "position": 45,
+      "word": "we"
+    },
+    {
+      "line": 11,
+      "count": 1,
+      "position": 77,
+      "word": "miles"
+    },
+    {
+      "line": 26,
+      "count": 1,
+      "position": 188,
+      "word": "running"
+    },
+    {
+      "line": 5,
+      "count": 4,
+      "position": 35,
+      "word": "can"
+    },
+    {
+      "line": 12,
+      "count": 5,
+      "position": 90,
+      "word": "times"
+    },
+    {
+      "line": 13,
+      "count": 7,
+      "position": 95,
+      "word": "sorry"
+    },
+    {
+      "line": 7,
+      "count": 3,
+      "position": 53,
+      "word": "and"
+    },
+    {
+      "line": 21,
+      "count": 4,
+      "position": 151,
+      "word": "of"
+    },
+    {
+      "line": 23,
+      "count": 1,
+      "position": 162,
+      "word": "you're"
+    },
+    {
+      "line": 3,
+      "count": 1,
+      "position": 25,
+      "word": "heal"
+    },
+    {
+      "line": 23,
+      "count": 1,
+      "position": 167,
+      "word": "make"
+    },
+    {
+      "line": 5,
+      "count": 1,
+      "position": 37,
+      "word": "hear"
+    },
+    {
+      "line": 2,
+      "count": 1,
+      "position": 17,
+      "word": "over"
+    },
+    {
+      "line": 0,
+      "count": 1,
+      "position": 4,
+      "word": "was"
+    },
+    {
+      "line": 2,
+      "count": 1,
+      "position": 16,
+      "word": "go"
+    },
+    {
+      "line": 2,
+      "count": 4,
+      "position": 20,
+      "word": "say"
+    },
+    {
+      "line": 15,
+      "count": 3,
+      "position": 110,
+      "word": "home"
+    },
+    {
+      "line": 21,
+      "count": 1,
+      "position": 150,
+      "word": "typical"
+    },
+    {
+      "line": 23,
+      "count": 1,
+      "position": 163,
+      "word": "well"
+    },
+    {
+      "line": 27,
+      "count": 1,
+      "position": 191,
+      "word": "time"
+    }
+  ],
+  "lines": 48
+}
